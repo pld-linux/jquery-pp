@@ -1,12 +1,12 @@
 %define		plugin	pp
 Summary:	jQuery PP framework
 Name:		jquery-%{plugin}
-Version:	1.1
+Version:	1.2
 Release:	1
 License:	MIT / GPL
 Group:		Applications/WWW
 Source0:	https://github.com/atirip/jquery.pp/tarball/%{version}/%{plugin}-%{version}.tgz
-# Source0-md5:	063c189cf601d6153676a201398ef8d8
+# Source0-md5:	c9343712054896837c7d16c070037666
 URL:		https://github.com/atirip/jquery.pp
 BuildRequires:	js
 BuildRequires:	rpmbuild(macros) > 1.268
